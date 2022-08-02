@@ -22,7 +22,7 @@ kyomi:~$ fetchme
 ```
 
 ### Some stats
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soukyomi&theme=onedark)](https://github.com/soukyomi)<br>
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitterteriyaki&theme=onedark)](https://github.com/bitterteriyaki)<br>
 
 ### Contact
 E-mail: contact@kyomi.codes<br>
