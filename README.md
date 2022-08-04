@@ -11,7 +11,6 @@ list(count(0))
 
 ```
 kyomi@universe λ fetchme
-
        /\         kyomi@universe
       /  \        os ~ arch linux
      /\   \       wm ~ i3wm
