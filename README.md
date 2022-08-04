@@ -10,9 +10,9 @@ list(count(0))
 ```
 
 ```
-kyomi:~$ fetchme
+kyomi@universe λ fetchme
 
-       /\         caio@arch
+       /\         kyomi@universe
       /  \        os ~ arch linux
      /\   \       wm ~ i3wm
     /      \      shell ~ zsh
