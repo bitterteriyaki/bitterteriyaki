@@ -20,8 +20,6 @@ list(count(0))
  /_-''    ''-_\   contact ~ contact@kyomi.codes
 ```
 
-My dotfiles repository: https://github.com/bitterteriyaki/dotfiles
-
 ### Some stats
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitterteriyaki&theme=onedark)](https://github.com/bitterteriyaki)<br>
 
