@@ -1,5 +1,4 @@
-## I was waiting for you! <img height="30" width="30" src="https://raw.githubusercontent.com/quintenvandamme/quintenvandamme/main/badges/src/mona-loading/mona-loading-dark.gif" />
-Hi there, my name is kyomi! I'm a developer looking for new adventures in the cosmos. ☄<br>
+## Hey there! 👋
 I am a proficient Python programmer with knowledge in several other languages.
 
 ```py
@@ -16,14 +15,16 @@ list(count(0))
      /\   \       wm ~ i3wm
     /      \      shell ~ zsh
    /   ,,   \     terminal ~ alacritty
-  /   |  |  -\    editors ~ neovim & visual studio code
+  /   |  |  -\    editors ~ visual studio code
  /_-''    ''-_\   contact ~ contact@kyomi.codes
 ```
 
-### Some stats
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitterteriyaki&theme=onedark)](https://github.com/bitterteriyaki)<br>
+### Statistics
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-### Contact
+### Contact & Other
 E-mail: contact@kyomi.codes<br>
-Portfolio: https://kyomi.codes
+Website: https://kyomi.codes
+GPG Public Key: [Click here](https://github.com/bitterteriyaki.gpg)
 
