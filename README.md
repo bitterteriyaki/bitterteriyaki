@@ -26,5 +26,5 @@ list(count(0))
 ### Contact & Other
 E-mail: contact@kyomi.codes<br>
 Website: https://kyomi.codes<br>
-GPG Public Key: Click [here](https://github.com/bitterteriyaki.gpg)
+GPG Public Key: Click [here](https://github.com/bitterteriyaki.gpg)<br>
 Dotfiles: Click [here](https://github.com/bitterteriyaki/dotfiles)
