@@ -21,7 +21,7 @@ list(count(0))
 
 ### Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2024%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -50,13 +50,14 @@ Sunday       26 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 38 mins        █████████████████████████   99.68% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 39 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 39 mins        █████████████████████████   100.0%
 
 ```
 
@@ -71,7 +72,7 @@ Shell                    1 repo              ██████░░░░░�
 
 
 
- Last Updated on 01/12/2022 18:38:54 UTC
+ Last Updated on 02/12/2022 18:36:43 UTC
 <!--END_SECTION:waka-->
 
 ### Contact & Other
