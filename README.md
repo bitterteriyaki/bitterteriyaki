@@ -50,13 +50,13 @@ Sunday       26 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      1 hr 45 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 45 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 45 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -71,7 +71,7 @@ Shell                    1 repo              ██████░░░░░�
 
 
 
- Last Updated on 15/12/2022 18:35:44 UTC
+ Last Updated on 16/12/2022 18:36:14 UTC
 <!--END_SECTION:waka-->
 
 ### Contact & Other
