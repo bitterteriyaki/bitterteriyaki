@@ -50,13 +50,13 @@ Sunday       25 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -70,7 +70,7 @@ TypeScript               1 repo              ██████░░░░░�
 
 
 
- Last Updated on 28/01/2023 18:35:20 UTC
+ Last Updated on 29/01/2023 18:35:19 UTC
 <!--END_SECTION:waka-->
 
 ### Contact & Other
