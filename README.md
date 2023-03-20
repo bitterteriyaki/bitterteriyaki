@@ -7,14 +7,13 @@ I am a proficient Python programmer with knowledge in several other languages.
 from itertools import count
 list(count(0))
 ```
-
 ```
 λ fetchme
-       /\         kyomi@universe
+       /\         kyomi@brazil
       /  \        os ~ arch linux
-     /\   \       wm ~ i3wm
+     /\   \       wm ~ kde
     /      \      shell ~ zsh
-   /   ,,   \     terminal ~ alacritty
+   /   ,,   \     terminal ~ konsole
   /   |  |  -\    editors ~ visual studio code
  /_-''    ''-_\   contact ~ contact@kyomi.codes
 ```
@@ -77,8 +76,9 @@ Shell                    1 repo              ██░░░░░░░░░�
  Last Updated on 19/03/2023 18:35:09 UTC
 <!--END_SECTION:waka-->
 
-### Contact & Other
-E-mail: contact@kyomi.codes<br>
-Website: https://kyomi.codes<br>
-GPG Public Key: Click [here](https://github.com/bitterteriyaki.gpg)<br>
-Dotfiles: Click [here](https://github.com/bitterteriyaki/dotfiles)
+### Other Stuff
+
+→ contact@kyomi.codes<br />
+→ [My Portfolio](https://kyomi.codes)<br />
+→ [My GPG Public Key](https://github.com/bitterteriyaki.gpg)<br />
+→ [My Dotfiles](https://github.com/bitterteriyaki/dotfiles) 
