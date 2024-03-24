@@ -11,7 +11,7 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-952%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-952%20hrs%2042%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -63,7 +63,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/03/2024 18:35:40 UTC
+ Last Updated on 24/03/2024 18:35:20 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
