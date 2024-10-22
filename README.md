@@ -11,8 +11,6 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C618%20hrs%2038%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -61,7 +59,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2024 18:41:10 UTC
+ Last Updated on 22/10/2024 18:40:41 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
