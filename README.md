@@ -11,7 +11,7 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C619%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2046%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -63,7 +63,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2024 18:41:44 UTC
+ Last Updated on 29/10/2024 18:41:27 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
