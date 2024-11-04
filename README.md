@@ -11,6 +11,8 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2046%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -36,16 +38,13 @@ Sunday                   211 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-conf                     1 hr 24 mins        ██████████████████████░░░   89.21 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 35 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 35 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -61,7 +60,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 18:39:51 UTC
+ Last Updated on 04/11/2024 18:40:38 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
