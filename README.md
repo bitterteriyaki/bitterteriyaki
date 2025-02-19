@@ -38,14 +38,13 @@ Sunday                   251 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   19 mins             █████████████████████████   99.92 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -61,7 +60,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2025 18:46:24 UTC
+ Last Updated on 19/02/2025 18:39:59 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
