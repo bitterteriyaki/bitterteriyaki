@@ -11,8 +11,6 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C857%20hrs%202%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -38,17 +36,13 @@ Sunday                   220 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-QML                      1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   41.30 % 
-Python                   44 mins             ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-Lark                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-hyprlang                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 hrs 48 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 48 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -64,7 +58,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2025 18:45:48 UTC
+ Last Updated on 30/07/2025 18:45:42 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
