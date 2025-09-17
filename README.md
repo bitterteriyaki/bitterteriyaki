@@ -11,6 +11,8 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C950%20hrs%2021%20mins-blue)
+
 **I Mostly Code in Python** 
 
 ```text
@@ -24,7 +26,7 @@ PostScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 18:41:46 UTC
+ Last Updated on 17/09/2025 18:41:21 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
