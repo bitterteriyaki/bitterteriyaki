@@ -11,6 +11,8 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C027%20hrs%2040%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -58,7 +60,7 @@ PostScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 18:41:05 UTC
+ Last Updated on 17/11/2025 18:43:31 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
