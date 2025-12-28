@@ -38,13 +38,13 @@ Sunday                   524 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -60,7 +60,7 @@ QML                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2025 18:43:22 UTC
+ Last Updated on 28/12/2025 18:44:40 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
