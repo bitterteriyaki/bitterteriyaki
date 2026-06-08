@@ -11,6 +11,8 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C432%20hrs%2058%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-667.09%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -70,7 +72,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 18:57:10 UTC
+ Last Updated on 08/06/2026 19:20:09 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
