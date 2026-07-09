@@ -11,7 +11,7 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C452%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C453%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-677.56%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -40,15 +40,14 @@ Sunday                   259 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SQL                      37 mins             ████████████████████░░░░░   80.33 % 
-Markdown                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+SQL                      16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              32 mins             █████████████████░░░░░░░░   68.58 % 
-VS Code                  14 mins             ████████░░░░░░░░░░░░░░░░░   31.42 % 
+Claude Code              8 mins              █████████████░░░░░░░░░░░░   52.54 % 
+VS Code                  7 mins              ████████████░░░░░░░░░░░░░   47.46 % 
 
 💻 Operating System: 
-WSL                      47 mins             █████████████████████████   100.00 % 
+WSL                      16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -68,7 +67,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2026 20:06:38 UTC
+ Last Updated on 09/07/2026 20:23:08 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
