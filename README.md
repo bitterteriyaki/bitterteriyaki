@@ -38,18 +38,18 @@ Sunday                   261 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      6 hrs 11 mins       ███████████████░░░░░░░░░░   58.98 % 
-Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-TOML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Rust                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Vue                      6 hrs 14 mins       ███████████████░░░░░░░░░░   61.17 % 
+Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+TOML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Rust                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 43 mins       █████████████████████░░░░   83.26 % 
-Claude Code              1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+VS Code                  8 hrs 26 mins       █████████████████████░░░░   82.65 % 
+Claude Code              1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 
 💻 Operating System: 
-WSL                      10 hrs 29 mins      █████████████████████████   100.00 % 
+WSL                      10 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +69,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:57:55 UTC
+ Last Updated on 24/07/2026 19:58:19 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
