@@ -11,26 +11,28 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-693.17%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C466%20hrs%2022%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-694.55%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-🌆 Daytime                643 commits         ██████████░░░░░░░░░░░░░░░   39.45 % 
-🌃 Evening                629 commits         ██████████░░░░░░░░░░░░░░░   38.59 % 
-🌙 Night                  211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+🌞 Morning                150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+🌆 Daytime                643 commits         ██████████░░░░░░░░░░░░░░░   39.38 % 
+🌃 Evening                629 commits         ██████████░░░░░░░░░░░░░░░   38.52 % 
+🌙 Night                  211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Tuesday                  250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Wednesday                165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Thursday                 224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Friday                   222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Saturday                 289 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Sunday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Monday                   219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Tuesday                  250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Wednesday                168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Thursday                 224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Friday                   222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Saturday                 289 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Sunday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 ```
 
 
@@ -69,7 +71,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:58:19 UTC
+ Last Updated on 25/07/2026 19:46:28 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
