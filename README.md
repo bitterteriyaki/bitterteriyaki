@@ -11,10 +11,6 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C360%20hrs%2013%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2024%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-694.55%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -42,40 +38,40 @@ Sunday                   261 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      51 mins             █████████████░░░░░░░░░░░░   53.48 % 
-Rust                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Vue                      39 mins             █████████████░░░░░░░░░░░░   51.26 % 
+Rust                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+TOML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        █████████████████████░░░░   85.64 % 
-Claude Code              13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+VS Code                  1 hr 10 mins        ███████████████████████░░   92.03 % 
+Claude Code              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 
 💻 Operating System: 
-WSL                      1 hr 36 mins        █████████████████████████   100.00 % 
+WSL                      1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (24.51%)
+⏱ AI Coding Time: 15 mins (20.59%)
 
-✍️ 830 lines written by AI, 64 lines written by hand (92.84% AI-written)
+✍️ 805 lines written by AI, 39 lines written by hand (95.38% AI-written)
 
-🔤 4,612,294 Input Tokens, 52,934 Output Tokens
+🔤 2,626,242 Input Tokens, 28,072 Output Tokens
 
-💵 $15.68 Estimated AI Cost This Week
+💵 $9.75 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 3 AI Sessions, 7 AI Prompts
 
-Sonnet                   830 lines           █████████████████████████   100.00 % 
+Sonnet                   805 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.84% of written lines came from AI
-📄 Detailed Prompter — average 520 characters per prompt
+🤖 AI-Driven — 95.38% of written lines came from AI
+📝 Concise Prompter — average 370 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 11.04% of changed lines were hand-edited
+🚀 High AI Trust — 6.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -95,7 +91,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:07:50 UTC
+ Last Updated on 28/07/2026 20:04:44 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
