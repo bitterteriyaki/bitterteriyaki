@@ -11,26 +11,30 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-694.55%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C360%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2025%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-696.01%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-🌆 Daytime                643 commits         ██████████░░░░░░░░░░░░░░░   39.38 % 
-🌃 Evening                629 commits         ██████████░░░░░░░░░░░░░░░   38.52 % 
-🌙 Night                  211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+🌞 Morning                153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+🌆 Daytime                645 commits         ██████████░░░░░░░░░░░░░░░   39.38 % 
+🌃 Evening                629 commits         ██████████░░░░░░░░░░░░░░░   38.40 % 
+🌙 Night                  211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Tuesday                  250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Wednesday                168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Thursday                 224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Friday                   222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Saturday                 289 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Sunday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Monday                   219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Tuesday                  250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Wednesday                173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Thursday                 224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Friday                   222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Saturday                 289 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Sunday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
 ```
 
 
@@ -38,40 +42,35 @@ Sunday                   261 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      39 mins             █████████████░░░░░░░░░░░░   51.26 % 
-Rust                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-TOML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        ███████████████████████░░   92.03 % 
-Claude Code              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Claude Code              0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      1 hr 16 mins        █████████████████████████   100.00 % 
+WSL                      0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (20.59%)
+⏱ AI Coding Time: 0 secs (100.0%)
 
-✍️ 805 lines written by AI, 39 lines written by hand (95.38% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,626,242 Input Tokens, 28,072 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $9.75 Estimated AI Cost This Week
+💵 $1.55 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
-Sonnet                   805 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.38% of written lines came from AI
-📝 Concise Prompter — average 370 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 6.94% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 32 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +90,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:04:44 UTC
+ Last Updated on 29/07/2026 19:55:01 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
