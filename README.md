@@ -15,26 +15,26 @@ list(count(0))
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-697.70%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-971.83%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                156 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-🌆 Daytime                646 commits         ██████████░░░░░░░░░░░░░░░   39.22 % 
-🌃 Evening                633 commits         ██████████░░░░░░░░░░░░░░░   38.43 % 
-🌙 Night                  212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+🌞 Morning                190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+🌆 Daytime                766 commits         ██████████░░░░░░░░░░░░░░░   38.73 % 
+🌃 Evening                749 commits         █████████░░░░░░░░░░░░░░░░   37.87 % 
+🌙 Night                  273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Tuesday                  250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Wednesday                176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Thursday                 226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Friday                   226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Saturday                 289 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Sunday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Monday                   277 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Tuesday                  296 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Wednesday                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Thursday                 264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Friday                   288 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Saturday                 343 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Sunday                   305 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
 ```
 
 
@@ -42,19 +42,35 @@ Sunday                   261 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 13 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 12 mins (17.18%)
+
+✍️ 0 lines written by AI, 18 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $1.55 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 6 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +90,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:11:21 UTC
+ Last Updated on 05/08/2026 20:12:02 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
