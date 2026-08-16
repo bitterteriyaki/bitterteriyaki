@@ -11,9 +11,9 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C374%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C377%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-319.47%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -42,42 +42,42 @@ Sunday                   198 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-QML                      3 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.27 % 
-Vue                      1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Lua                      1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Docker                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+QML                      4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.77 % 
+Vue                      1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Lua                      1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Docker                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
-VS Code                  3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.06 % 
-Neovim                   3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+Claude Code              4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   38.33 % 
+VS Code                  3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.92 % 
+Neovim                   3 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.76 % 
 
 💻 Operating System: 
-Linux                    6 hrs 5 mins        █████████████░░░░░░░░░░░░   53.88 % 
-WSL                      5 hrs 12 mins       ████████████░░░░░░░░░░░░░   46.12 % 
+Linux                    6 hrs 30 mins       ██████████████░░░░░░░░░░░   55.52 % 
+WSL                      5 hrs 12 mins       ███████████░░░░░░░░░░░░░░   44.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 11 mins (63.59%)
+⏱ AI Coding Time: 7 hrs 26 mins (63.54%)
 
-✍️ 707 lines written by AI, 243 lines written by hand (74.42% AI-written)
+✍️ 731 lines written by AI, 485 lines written by hand (60.12% AI-written)
 
-🔤 21,843,293 Input Tokens, 162,015 Output Tokens
+🔤 23,278,492 Input Tokens, 169,624 Output Tokens
 
-💵 $47.12 Estimated AI Cost This Week
+💵 $50.40 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 125 AI Prompts
+🧠 17 AI Sessions, 132 AI Prompts
 
-Sonnet                   731 lines           █████████████████████████   100.00 % 
+Sonnet                   943 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.42% of written lines came from AI
-📄 Detailed Prompter — average 1,266 characters per prompt
+⚖️ Balanced with AI — 60.12% of written lines came from AI
+📄 Detailed Prompter — average 1,205 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 36.55% of changed lines were hand-edited
+🚀 High AI Trust — 48.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 18:59:22 UTC
+ Last Updated on 16/08/2026 18:58:56 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
