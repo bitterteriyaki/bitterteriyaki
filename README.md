@@ -42,42 +42,42 @@ Sunday                   198 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-QML                      3 hrs 57 mins       ████████████░░░░░░░░░░░░░   49.99 % 
-Docker                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Vue                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+QML                      3 hrs 37 mins       █████████████░░░░░░░░░░░░   50.18 % 
+Docker                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Vue                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.47 % 
-Neovim                   2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.07 % 
-VS Code                  1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Claude Code              3 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.65 % 
+Neovim                   2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+VS Code                  1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
 
 💻 Operating System: 
-Linux                    4 hrs 33 mins       ██████████████░░░░░░░░░░░   57.61 % 
-WSL                      3 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.39 % 
+Linux                    3 hrs 58 mins       ██████████████░░░░░░░░░░░   54.99 % 
+WSL                      3 hrs 15 mins       ███████████░░░░░░░░░░░░░░   45.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 29 mins (69.33%)
+⏱ AI Coding Time: 5 hrs 7 mins (70.73%)
 
-✍️ 695 lines written by AI, 332 lines written by hand (67.67% AI-written)
+✍️ 730 lines written by AI, 334 lines written by hand (68.61% AI-written)
 
-🔤 16,515,027 Input Tokens, 128,755 Output Tokens
+🔤 16,639,841 Input Tokens, 132,389 Output Tokens
 
-💵 $36.77 Estimated AI Cost This Week
+💵 $37.05 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 111 AI Prompts
+🧠 15 AI Sessions, 111 AI Prompts
 
-Sonnet                   1,002 lines         █████████████████████████   100.00 % 
+Sonnet                   1,038 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.67% of written lines came from AI
-📚 Verbose Prompter — average 2,816 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 39.76% of changed lines were hand-edited
+🤖 AI-Driven — 68.61% of written lines came from AI
+📚 Verbose Prompter — average 1,997 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 37.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:05:23 UTC
+ Last Updated on 20/08/2026 19:13:32 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
