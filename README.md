@@ -42,37 +42,19 @@ Sunday                   198 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 mins              ████████████████████░░░░░   82.00 % 
-Text                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              6 mins              ████████████████░░░░░░░░░   63.49 % 
-VS Code                  3 mins              █████████░░░░░░░░░░░░░░░░   36.51 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (63.49%)
-
-✍️ 2 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 102,357 Input Tokens, 27,319 Output Tokens
-
-💵 $0.86 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Sonnet                   2 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 154 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +74,7 @@ QML                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 20:59:45 UTC
+ Last Updated on 05/09/2026 20:39:41 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
