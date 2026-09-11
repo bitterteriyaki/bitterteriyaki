@@ -15,26 +15,26 @@ list(count(0))
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-325.57%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-464.79%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-🌆 Daytime                489 commits         █████████░░░░░░░░░░░░░░░░   37.39 % 
-🌃 Evening                496 commits         █████████░░░░░░░░░░░░░░░░   37.92 % 
-🌙 Night                  145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+🌞 Morning                195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+🌆 Daytime                552 commits         █████████░░░░░░░░░░░░░░░░   37.37 % 
+🌃 Evening                554 commits         █████████░░░░░░░░░░░░░░░░   37.51 % 
+🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Tuesday                  186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Wednesday                161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Thursday                 222 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Friday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Saturday                 209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Sunday                   198 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Monday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Tuesday                  212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Wednesday                174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Thursday                 241 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Friday                   213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Saturday                 236 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Sunday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 ```
 
 
@@ -42,19 +42,40 @@ Sunday                   198 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      28 mins             ███████████████░░░░░░░░░░   60.97 % 
+TOML                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Markdown                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              36 mins             ████████████████████░░░░░   78.21 % 
+Neovim                   10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 46 mins (98.87%)
+
+✍️ 4 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,740,709 Input Tokens, 8,555 Output Tokens
+
+💵 $3.52 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 10 AI Prompts
+
+Sonnet                   4 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 58 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 55.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +95,7 @@ QML                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:09:05 UTC
+ Last Updated on 11/09/2026 21:13:23 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
