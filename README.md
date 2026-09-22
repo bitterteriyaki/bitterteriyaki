@@ -42,41 +42,40 @@ Sunday                   242 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.75 % 
-QML                      2 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.19 % 
-Lua                      1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-TOML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+QML                      2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.47 % 
+Markdown                 2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Lua                      1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+TOML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 6 mins        ██████████████░░░░░░░░░░░   54.78 % 
-Claude Code              4 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
+Neovim                   4 hrs 28 mins       ██████████████░░░░░░░░░░░   55.95 % 
+Claude Code              3 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.05 % 
 
 💻 Operating System: 
-Linux                    9 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs (75.28%)
+⏱ AI Coding Time: 5 hrs 59 mins (74.97%)
 
-✍️ 3,735 lines written by AI, 296 lines written by hand (92.66% AI-written)
+✍️ 3,024 lines written by AI, 183 lines written by hand (94.29% AI-written)
 
-🔤 124,140,593 Input Tokens, 335,453 Output Tokens
+🔤 114,294,711 Input Tokens, 274,927 Output Tokens
 
-💵 $625.80 Estimated AI Cost This Week
+💵 $578.35 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 148 AI Prompts
+🧠 6 AI Sessions, 119 AI Prompts
 
-Opus                     3,600 lines         ████████████████████████░   96.26 % 
-Sonnet                   140 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Opus                     3,024 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.66% of written lines came from AI
-📄 Detailed Prompter — average 1,458 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 12.56% of changed lines were hand-edited
+🤖 AI-Driven — 94.29% of written lines came from AI
+📄 Detailed Prompter — average 1,207 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 12.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -96,7 +95,7 @@ QML                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 22:10:53 UTC
+ Last Updated on 22/09/2026 21:37:26 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
