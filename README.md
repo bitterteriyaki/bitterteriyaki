@@ -11,30 +11,30 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C404%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C404%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-786.35%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-727.14%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-🌆 Daytime                863 commits         ██████████░░░░░░░░░░░░░░░   40.05 % 
-🌃 Evening                787 commits         █████████░░░░░░░░░░░░░░░░   36.52 % 
-🌙 Night                  249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+🌞 Morning                228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+🌆 Daytime                740 commits         ██████████░░░░░░░░░░░░░░░   39.51 % 
+🌃 Evening                664 commits         █████████░░░░░░░░░░░░░░░░   35.45 % 
+🌙 Night                  241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Tuesday                  304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Wednesday                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Thursday                 466 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Friday                   292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Saturday                 313 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Sunday                   288 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Monday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Tuesday                  241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Wednesday                191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Thursday                 431 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Friday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Saturday                 271 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Sunday                   242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
 ```
 
 
@@ -42,50 +42,50 @@ Sunday                   288 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 3 mins        ██████████████░░░░░░░░░░░   56.39 % 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-QML                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-C                        28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Markdown                 5 hrs 2 mins        █████████████░░░░░░░░░░░░   51.69 % 
+Python                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+QML                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Git Config               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 59 mins       █████████████████░░░░░░░░   69.32 % 
-VS Code                  1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Neovim                   1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Claude Code              6 hrs 47 mins       █████████████████░░░░░░░░   69.52 % 
+VS Code                  1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Neovim                   1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 
 💻 Operating System: 
-WSL                      4 hrs 26 mins       ███████████████░░░░░░░░░░   61.67 % 
-Linux                    2 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.33 % 
+WSL                      7 hrs               ██████████████████░░░░░░░   71.77 % 
+Linux                    2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 20 mins (88.1%)
+⏱ AI Coding Time: 8 hrs 23 mins (86.03%)
 
-✍️ 7,339 lines written by AI, 221 lines written by hand (97.08% AI-written)
+✍️ 9,757 lines written by AI, 225 lines written by hand (97.75% AI-written)
 
-🔤 34,986,484 Input Tokens, 385,514 Output Tokens
+🔤 35,618,030 Input Tokens, 546,705 Output Tokens
 
-💵 $321.98 Estimated AI Cost This Week
+💵 $333.54 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 114 AI Prompts
+🧠 27 AI Sessions, 168 AI Prompts
 
-Opus                     7,659 lines         █████████████████████████   100.00 % 
+Opus                     10,077 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.08% of written lines came from AI
-📚 Verbose Prompter — average 1,965 characters per prompt
+🤖 AI-Driven — 97.75% of written lines came from AI
+📚 Verbose Prompter — average 1,931 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 5.32% of changed lines were hand-edited
+🚀 High AI Trust — 4.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
 Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Vue                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 PostScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 QML                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
@@ -98,7 +98,7 @@ QML                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:53:35 UTC
+ Last Updated on 02/10/2026 22:30:33 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
