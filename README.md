@@ -42,42 +42,42 @@ Sunday                   241 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 42 mins       ███████████░░░░░░░░░░░░░░   42.84 % 
-TypeScript               6 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.85 % 
-Vue                      2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Markdown                 9 hrs 35 mins       ███████████░░░░░░░░░░░░░░   43.66 % 
+TypeScript               6 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Vue                      3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 27 mins      ██████████████░░░░░░░░░░░   56.32 % 
-VS Code                  8 hrs 53 mins       ███████████░░░░░░░░░░░░░░   43.68 % 
+Claude Code              12 hrs 51 mins      ███████████████░░░░░░░░░░   58.54 % 
+VS Code                  9 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.46 % 
 
 💻 Operating System: 
-WSL                      20 hrs 20 mins      █████████████████████████   100.00 % 
+WSL                      21 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 49 mins (67.94%)
+⏱ AI Coding Time: 15 hrs 44 mins (71.67%)
 
-✍️ 15,735 lines written by AI, 774 lines written by hand (95.31% AI-written)
+✍️ 17,507 lines written by AI, 615 lines written by hand (96.61% AI-written)
 
-🔤 6,928,855 Input Tokens, 1,176,980 Output Tokens
+🔤 7,273,410 Input Tokens, 1,363,763 Output Tokens
 
-💵 $152.67 Estimated AI Cost This Week
+💵 $185.45 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 266 AI Prompts
+🧠 14 AI Sessions, 301 AI Prompts
 
-Opus                     15,940 lines        █████████████████████████   100.00 % 
+Opus                     17,716 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.31% of written lines came from AI
-📚 Verbose Prompter — average 2,687 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 8.23% of changed lines were hand-edited
+🤖 AI-Driven — 96.61% of written lines came from AI
+📚 Verbose Prompter — average 3,501 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 5.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ QML                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:52:09 UTC
+ Last Updated on 10/10/2026 21:58:33 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
