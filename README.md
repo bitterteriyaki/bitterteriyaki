@@ -20,21 +20,21 @@ list(count(0))
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-🌆 Daytime                1060 commits        █████████░░░░░░░░░░░░░░░░   36.58 % 
-🌃 Evening                1114 commits        ██████████░░░░░░░░░░░░░░░   38.44 % 
-🌙 Night                  375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+🌞 Morning                351 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+🌆 Daytime                1061 commits        █████████░░░░░░░░░░░░░░░░   36.54 % 
+🌃 Evening                1117 commits        ██████████░░░░░░░░░░░░░░░   38.46 % 
+🌙 Night                  375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Tuesday                  366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Wednesday                429 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Thursday                 525 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Friday                   443 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Saturday                 392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Sunday                   389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Monday                   354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Tuesday                  366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Wednesday                429 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Thursday                 526 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Friday                   448 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Saturday                 392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Sunday                   389 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 ```
 
 
@@ -42,41 +42,41 @@ Sunday                   389 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.08 % 
-TypeScript               4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Vue                      3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Python                   2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-JavaScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Markdown                 4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+TypeScript               4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Vue                      3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+JavaScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 3 mins       █████████████████████░░░░   82.11 % 
-VS Code                  2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Neovim                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Claude Code              15 hrs 8 mins       ████████████████████░░░░░   81.98 % 
+VS Code                  2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Neovim                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 💻 Operating System: 
-WSL                      18 hrs 57 mins      ████████████████████░░░░░   81.69 % 
-Linux                    4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+WSL                      16 hrs 33 mins      ██████████████████████░░░   89.59 % 
+Linux                    1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 51 mins (89.89%)
+⏱ AI Coding Time: 16 hrs 29 mins (89.23%)
 
-✍️ 43,491 lines written by AI, 437 lines written by hand (99.01% AI-written)
+✍️ 38,434 lines written by AI, 432 lines written by hand (98.89% AI-written)
 
-🔤 112,683,914 Input Tokens, 2,897,155 Output Tokens
+🔤 23,633,175 Input Tokens, 2,438,929 Output Tokens
 
-💵 $648.72 Estimated AI Cost This Week
+💵 $264.96 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 436 AI Prompts
+🧠 36 AI Sessions, 362 AI Prompts
 
-Opus                     43,704 lines        █████████████████████████   100.00 % 
+Opus                     38,678 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.01% of written lines came from AI
-📚 Verbose Prompter — average 4,354 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+🤖 AI-Driven — 98.89% of written lines came from AI
+📚 Verbose Prompter — average 4,318 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 1.54% of changed lines were hand-edited
 ```
 
@@ -97,7 +97,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 21:54:26 UTC
+ Last Updated on 23/10/2026 21:38:15 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
