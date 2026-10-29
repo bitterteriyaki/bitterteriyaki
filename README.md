@@ -11,9 +11,9 @@ list(count(0))
 
 ## Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C472%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C474%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-496.84%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -42,40 +42,42 @@ Sunday                   186 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-Other                    1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-TypeScript               1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-INI                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Other                    4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Markdown                 3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+Python                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+INI                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 6 mins        ████████████████████░░░░░   79.03 % 
-VS Code                  1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Claude Code              13 hrs 8 mins       ██████████████████████░░░   86.40 % 
+VS Code                  1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Neovim                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
-WSL                      8 hrs 59 mins       █████████████████████████   100.00 % 
+WSL                      12 hrs 16 mins      ████████████████████░░░░░   80.68 % 
+Linux                    2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 31 mins (83.65%)
+⏱ AI Coding Time: 13 hrs 44 mins (90.33%)
 
-✍️ 397 lines written by AI, 905 lines written by hand (30.49% AI-written)
+✍️ 2,852 lines written by AI, 932 lines written by hand (75.37% AI-written)
 
-🔤 1,540,747 Input Tokens, 261,737 Output Tokens
+🔤 29,965,269 Input Tokens, 553,324 Output Tokens
 
-💵 $39.76 Estimated AI Cost This Week
+💵 $147.96 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 165 AI Prompts
+🧠 23 AI Sessions, 272 AI Prompts
 
-Opus                     1,067 lines         █████████████████████████   100.00 % 
+Opus                     3,074 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.49% of written lines came from AI
-📝 Concise Prompter — average 148 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 63.66% of changed lines were hand-edited
+🤖 AI-Driven — 75.37% of written lines came from AI
+📝 Concise Prompter — average 177 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 25.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -95,7 +97,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bitterteriyaki/bitterteriyaki/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:48:39 UTC
+ Last Updated on 29/10/2026 22:57:44 UTC
 <!--END_SECTION:waka-->
 
 ### Other Stuff
